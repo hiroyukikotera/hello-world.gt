@@ -1,1 +1,4 @@
 hello_world!!
+
+goodbye_world!!
+goodbye_kaneda!!
